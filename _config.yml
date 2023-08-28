@@ -58,6 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Research Project UC San Diego
+        sub_title: Neural Architecture Search for Skin Cancer Detection 
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
