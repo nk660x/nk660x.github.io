@@ -91,7 +91,7 @@ content:
             • Cash Settlement Engine will save 5 million euros annually by decommissioning current vendor products
             • Implemented key software strategies including Domain Driven Design, Event Driven Architecture, and Test Driven
             Development with code coverage exceeding 80%, and Behavior Driven Development with a 100% Passing Serenity BDD report
-    content:
+    # content:
       - layout: left
         title: Samsung Research Institute
         # link: boringcompany.com
@@ -105,7 +105,7 @@ content:
             • The outcome of the project was to enhance end to end Automatic Speech Recognition systems using data augmentation
             techniques.
             • Worked with a variety of NLP frameworks related to speech recognition, synthesis, sampling, filtering and translation
-    content:
+    # content:
       - layout: left
         title: Western Digital
         # link: boringcompany.com
