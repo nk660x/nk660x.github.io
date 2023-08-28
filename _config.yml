@@ -65,7 +65,7 @@ content:
         caption: Aug 2017 - Jul 2021
         sub_title: Bachelors of Engineering in Electrical and Electronics Engineering
         description: |
-         CGPA - 9.29/10  
+                                                    CGPA - 9.29/10  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -153,9 +153,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
-      Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
-      Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
-      Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
+      | Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
+      | Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
+      | Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
 
 # - title: Techincal Skills and Courses
 #     layout: text
