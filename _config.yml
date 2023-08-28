@@ -126,11 +126,11 @@ content:
         title: Carnegie Mellon University
         caption: Aug 2023 - Dec 2024
         sub_title: Master of Science in Intelligent Information Systems
-     - layout: middle
-        title: BITS Pilani
-        caption: Aug 2017 - Jul 2021
-        sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
-        description:  CGPA - 9.29/10
+    #  - layout: middle
+    #     title: BITS Pilani
+    #     caption: Aug 2017 - Jul 2021
+    #     sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
+    #     description:  CGPA - 9.29/10
         # sub_title:  Minor in Data Science
         # description:  CGPA - 9/10
         # quote: >
