@@ -64,7 +64,7 @@ content:
         additional_links:
           # - title:  Neural Architecture Search for Skin Cancer Detection 
             # icon: fab fa-github
-            url: https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection
+            # url: https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
