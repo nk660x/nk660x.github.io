@@ -80,12 +80,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             • Played a key role in the development team that built the Cash Settlement Engine' product for the Investment
             Banking Division
-
             • The project's aim was to replace existing five monolithic settlement systems with a modernistic cloud hosted
             micro-service based architecture acting as a unified settlement system across various products
-
             • Cash Settlement Engine will save 5 million euros annually by decommissioning current vendor products
-
             • Implemented key software strategies including Domain Driven Design, Event Driven Architecture, and Test Driven
             Development with code coverage exceeding 80%, and Behavior Driven Development with a 100% Passing Serenity BDD report
     # content:
@@ -99,10 +96,8 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             • Worked in the Voice Intelligence R&D team focused on Automatic Speech Recognition.
-
             • The outcome of the project was to enhance end to end Automatic Speech Recognition systems using data augmentation
             techniques.
-
             • Worked with a variety of NLP frameworks related to speech recognition, synthesis, sampling, filtering and translation
     # content:
       - layout: left
@@ -115,9 +110,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             • At Western Digital I worked with the Firmware group in the RPG(Removable Product Group) department. The project was based in Data Analytics.
-
             • The teams used .map files for observing patterns in the firmware. However, many crucial components were being looked at manually leading to inefficiencies in performance.
-
             • The tool I developed parsed data from these files and converted them into a ubiquitous format, supporting SQL queries.
       
     #  - layout: top-middle
@@ -153,7 +146,6 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Enhanced diagnosis of early stages of skin cancer using the method of Neural Architecture Search (NAS), improved by the technique of Learning by Passing Tests (LPT) to improve accuracy by close to 1%
-          
           The experiments consisted of two models, a teacher model, and a learner model, mirroring processes occurring in human learning
   
   
@@ -161,23 +153,18 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
-      
-      Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
-      
-      Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
-      
-      Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
+      | Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
+      | Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
+      | Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
 
-  - title: Technical Skills
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
-        
-        Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
-        
-        Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
-        
-        Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
+# - title: Techincal Skills and Courses
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#         OS: Windows, Linux
+#         Programming Languages: Python, Java, C++, C
+#         Libraries: Gensim, OpenCV, TensorFLow, Kaldi, Espnet, Scipy, Scikit, Keras
+#         Subjects: Machine Learning, Artificial Intelligence, Neural Networks and Fuzzy Logic, Python Programming, Information Retrieval, Foundations of Data Science, Data Structures and Algorithms, C programming, Probability and Statistics, Operating Systems
+#         Object Oriented Programming, Digital Design, Optimization, Applied Statistical Methods Languages: English, Telugu, Hindi, French
 
 # Footer
 footer_show_references: true
