@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: nikhilkandukuri
+linkedin_username: nikhil-kandukuri-b78487202
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -58,10 +58,11 @@ content:
     content:
       - layout: top-middle
         title: Research Project UC San Diego
+        sub_title: Neural Architecture Search for Skin Cancer Detection
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  Neural Architecture Search for Skin Cancer Detection 
+          # - title:  Neural Architecture Search for Skin Cancer Detection 
             # icon: fab fa-github
             url: https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
