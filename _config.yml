@@ -130,7 +130,7 @@ content:
         title: BITS Pilani
         caption: Aug 2017 - Jul 2021
         sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
-        description:  CGPA - 9.29/10
+        # description:  CGPA - 9.29/10
         # sub_title:  Minor in Data Science
         # description:  CGPA - 9/10
         # quote: >
