@@ -126,13 +126,13 @@ content:
         title: Carnegie Mellon University
         caption: Aug 2023 - Dec 2024
         sub_title: Master of Science in Intelligent Information Systems
-    #  - layout: middle
-    #     title: BITS Pilani
-    #     caption: Aug 2017 - Jul 2021
-    #     sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
-    #     description:  CGPA - 9.29/10
-    #     sub_title:  Minor in Data Science
-    #     description:  CGPA - 9/10
+     - layout: middle
+        title: BITS Pilani
+        caption: Aug 2017 - Jul 2021
+        sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
+        description:  CGPA - 9.29/10
+        # sub_title:  Minor in Data Science
+        # description:  CGPA - 9/10
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
