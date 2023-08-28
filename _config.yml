@@ -63,7 +63,8 @@ content:
       - layout: top-middle
         title: BITS Pilani
         caption: Aug 2017 - Jul 2021
-        sub_title: Bachelors of Engineering in Electrical and Electronics Engineering  
+        sub_title: Bachelors of Engineering in Electrical and Electronics Engineering
+        caption: CGPA - 9.29/10  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
