@@ -53,6 +53,17 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Carnegie Mellon University
+        caption: Aug 2023 - Dec 2024
+        sub_title: Master of Science in Intelligent Information Systems
+      - layout: top-middle
+        title: BITS Pilani
+        caption: Aug 2017 - Jul 2021
+        sub_title: Bachelors of Engineering in Electrical and Electronics Engineering  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,17 +110,7 @@ content:
             • At Western Digital I worked with the Firmware group in the RPG(Removable Product Group) department. The project was based in Data Analytics.
             • The teams used .map files for observing patterns in the firmware. However, many crucial components were being looked at manually leading to inefficiencies in performance.
             • The tool I developed parsed data from these files and converted them into a ubiquitous format, supporting SQL queries.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Carnegie Mellon University
-        caption: Aug 2023 - Dec 2024
-        sub_title: Master of Science in Intelligent Information Systems
-      - layout: top-middle
-        title: BITS Pilani
-        caption: Aug 2017 - Jul 2021
-        sub_title: Bachelors of Engineering in Electrical and Electronics Engineering        
+      
     #  - layout: top-middle
     #     title: BITS Pilani
     #     caption: Aug 2017 - Jul 2021
