@@ -122,29 +122,39 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - layout: middle
+        title: Carnegie Mellon University
+        caption: Aug 2023 - Dec 2024
+        sub_title: Master of Science in Intelligent Information Systems
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: middle
+        title: BITS Pilani
+        caption: Aug 2017 - July 2021
+        sub_title: Bachelors of Engineering in Electrical and Electronics Engineering
+        description: CGPA - 9.29/10
+        sub_title: Minor in Data Science
+        description: CGPA - 9/10
+  - title: Awards and Achievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
+      Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
+      Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
+      Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+ - title: Technical Skills and Courses
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      OS: Windows, Linux
+      Programming Languages: Python, Java, C++, C
+      Libraries: Gensim, OpenCV, TensorFLow, Kaldi, Espnet, Scipy, Scikit, Keras
+      Subjects: Machine Learning, Artificial Intelligence, Neural Networks and Fuzzy Logic, Python Programming, Information Retrieval, Foundations of Data Science, Data Structures and Algorithms, C programming, Probability and Statistics, Operating Systems
+      Object Oriented Programming, Digital Design, Optimization, Applied Statistical Methods Languages: English, Telugu, Hindi, French
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
