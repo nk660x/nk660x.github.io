@@ -172,14 +172,11 @@ content:
   - title: Awards and Acievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
-      
-      Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
-      
-      Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
-      
-      Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
-
+      OS: Windows, Linux
+      Programming Languages: Python, Java, C++, C
+      Libraries: Gensim, OpenCV, TensorFLow, Kaldi, Espnet, Scipy, Scikit, Keras
+      Subjects: Machine Learning, Artificial Intelligence, Neural Networks and Fuzzy Logic, Python Programming, Information Retrieval, Foundations of Data Science, Data Structures and Algorithms, C programming, Probability and Statistics, Operating Systems
+      Object Oriented Programming, Digital Design, Optimization, Applied Statistical Methods Languages: English, Telugu, Hindi, French
   # - title: Awards and Acievements
   #     layout: text
   #     content: | # this will include new lines to allow paragraphs
