@@ -44,8 +44,11 @@ linkedin_username: nikhil-kandukuri-b78487202
 # about_title: About Me
 about_profile_image: images/test.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nikhil and I'm a current graduate student at Carnegie Mellon University. I have close to two years of Work Experience at Deutsche Bank
-  have also interned at a few couple companies like Samsung Research and Western Digital.
+  Hi, my name's Nikhil and I'm a current graduate student at Carnegie Mellon University. 
+  
+  I have close to two years of Work Experience at Deutsche Bank.
+
+  I have also interned at MNCs like Samsung Research and Western Digital.
 
 content:
   - title: Education # Title for the section
@@ -139,25 +142,25 @@ content:
   - title: Awards and Acievements
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Academic Merit Scholarship: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
+      <mark>Academic Merit Scholarship<\mark>: Received scholarship for four semesters during my Undergraduate Degree, awarded based on GPA to the top performing 3% of the undergraduate cohort of close to 1100 students
       
-      Concours Romain Rolland: Third Rank All India under the B1 category (French Olympiad)
+      <mark>Concours Romain Rolland<\mark>: Third Rank All India under the B1 category (French Olympiad)
       
-      Deutsche Bank Global Hackathon: Declared as the best team from India for building an application promoting mental health
+      <mark>Deutsche Bank Global Hackathon<\mark>: Declared as the best team from India for building an application promoting mental health
       
-      Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
+      <mark>Deutsche Bank Recognition Award<\mark>: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
 
 
   - title: Technical Skills and Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      OS: Windows, Linux
+      <mark>OS<\mark>: Windows, Linux
 
-      Programming Languages: Python, Java, C++, C
+      <mark>Programming Languages<\mark>: Python, Java, C++, C
 
-      Libraries: Gensim, OpenCV, TensorFLow, Kaldi, Espnet, Scipy, Scikit, Keras
+      <mark>Libraries<\mark>: Gensim, OpenCV, TensorFLow, Kaldi, Espnet, Scipy, Scikit, Keras
 
-      Subjects: Machine Learning, Artificial Intelligence, Neural Networks and Fuzzy Logic, Python Programming, Information Retrieval, Foundations of Data Science, Data Structures and Algorithms, C programming, Probability and Statistics, Operating Systems
+      S<mark>ubjects<\mark>: Machine Learning, Artificial Intelligence, Neural Networks and Fuzzy Logic, Python Programming, Information Retrieval, Foundations of Data Science, Data Structures and Algorithms, C programming, Probability and Statistics, Operating Systems
       Object Oriented Programming, Digital Design, Optimization, Applied Statistical Methods Languages: English, Telugu, Hindi, French
   # - title: Awards and Acievements
   #     layout: text
