@@ -44,9 +44,8 @@ linkedin_username: nikhil-kandukuri-b78487202
 # about_title: About Me
 about_profile_image: images/test.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Nikhil and I'm a current graduate student at Carnegie Mellon University. I have close to two years of Work Experience at Deutsche Bank
+  have also interned at a few couple companies like Samsung Research and Western Digital.
 
 content:
   - title: Education # Title for the section
@@ -58,10 +57,8 @@ content:
         sub_title: Master of Science in Intelligent Information Systems
       - layout: top-middle
         title: BITS Pilani
-        caption: Aug 2017 - Jul 2021
+        caption: Aug 2017 - Jul 2021 (CGPA - 9.29/10)
         sub_title: Bachelors of Engineering in Electrical and Electronics Engineering
-        description: |
-                                                    CGPA - 9.29/10  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,20 +113,6 @@ content:
             
             • The tool I developed parsed data from these files and converted them into a ubiquitous format, supporting SQL queries.
       
-    #  - layout: top-middle
-    #     title: BITS Pilani
-    #     caption: Aug 2017 - Jul 2021
-    #     sub_title: Bachelor of Engineering in Electrical and Electronics Engineering
-        # description:  CGPA - 9.29/10
-        # sub_title:  Minor in Data Science
-        # description:  CGPA - 9/10
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        # description: | # this will include new lines to allow paragraphs
-        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -185,7 +168,7 @@ content:
   #       | Deutsche Bank Recognition Award: Awarded the DBRecognition award for the first quarter of 2023 for migrating the Cash Settlement Engine from development to User Acceptance Testing (UAT).
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
