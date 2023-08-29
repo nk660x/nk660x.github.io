@@ -35,7 +35,7 @@ linkedin_username: nikhil-kandukuri-b78487202
 # about_title: About Me
 about_profile_image: images/test.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nikhil and I'm a current graduate student at Carnegie Mellon University. 
+  Hi, I'm a current graduate student at Carnegie Mellon University. 
   
   I have two years of IT Experience working with the latest tech stack like Quarkus , gRPC , Google Pub/Aub , Debezium at Deutsche Bank.  
 
