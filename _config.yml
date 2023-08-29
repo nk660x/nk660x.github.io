@@ -37,11 +37,11 @@ about_profile_image: images/test.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a current graduate student at Carnegie Mellon University. 
   
-  I have two years of IT Experience working with the latest tech stack like Quarkus , gRPC , Google Pub/Aub , Debezium at Deutsche Bank.  
+  Possess two years of IT Experience working with the latest tech stack like Quarkus , gRPC , Google Pub/Aub , Debezium at Deutsche Bank.  
 
-  I have also interned at MNCs like Samsung Research and Western Digital where I was able apply my skills of academia in some enriching projects centred around Bixby ( Samsung's Voice Assistant) and the new generation of flash drives.
+  Interned at MNCs like Samsung Research and Western Digital where I applied my skills of academia in some enriching projects centred around Bixby ( Samsung's Voice Assistant) and the new generation of flash drives.
 
-  I am excited to explore further in the field of Mahcine Learning and Natural Language Processing.
+  Excited to explore further in the field of Mahcine Learning and Natural Language Processing!
 
 content:
   - title: Education # Title for the section
