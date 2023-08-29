@@ -9,8 +9,9 @@ version: 2
 name: Nikhil Kandukuri
 title: MIIS Graduate Student at Carnegie Mellon University
 email: nikhilkandukuri@cmu.edu
-website: https://nk660x.github.io/
 mobile: +1 (878)-834-9329
+website: https://nk660x.github.io/
+
 
 # Dark Mode (true/false/never)
 darkmode: false
