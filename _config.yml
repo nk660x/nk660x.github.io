@@ -128,7 +128,8 @@ content:
           Enhanced diagnosis of early stages of skin cancer using the method of Neural Architecture Search (NAS), improved by the technique of Learning by Passing Tests (LPT) to improve accuracy by close to 1%
           
           The experiments consisted of two models, a teacher model, and a learner model, mirroring processes occurring in human learning
-  
+
+          [Link to Preprint](https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection)
   
   - title: Awards and Acievements
     layout: text
