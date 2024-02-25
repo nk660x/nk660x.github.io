@@ -114,8 +114,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Research Project UC San Diego
-        sub_title: Neural Architecture Search for Skin Cancer Detection 
+        title: Neural Architecture Search for Skin Cancer Detection 
+        sub_title: Research Project UC San Diego
         # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -134,8 +134,8 @@ content:
 
           [Link to Preprint](https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection)
       - layout: top-middle
-        title: Research Project Carnegie Mellon University
-        sub_title: Event Temporal Ordering using LLMs 
+        title: Event Temporal Ordering using LLMs
+        sub_title: Research Project Carnegie Mellon University
         # link: github.com/sproogen
         # link_text: Project Website
         # quote: >
@@ -145,8 +145,8 @@ content:
           existing datasets through prompt engineering and evaluated performance models encompassing LLaMa (7B,13B,70B) , 
           Flan-T5(3B,XL,XXL)
       - layout: top-middle
-        title: Research Project Carnegie Mellon University
-        sub_title: Text Injection for Automatic Speech Recognition (ASR) 
+        title: Text Injection for Automatic Speech Recognition (ASR)
+        sub_title: Research Project Carnegie Mellon University
         # link: github.com/sproogen
         # link_text: Project Website
         # quote: >
