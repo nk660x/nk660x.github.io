@@ -133,27 +133,27 @@ content:
           The experiments consisted of two models, a teacher model, and a learner model, mirroring processes occurring in human learning
 
           [Link to Preprint](https://www.researchgate.net/publication/355292507_Neural_Architecture_Search_For_Skin_Cancer_Detection)
-    - layout: top-middle
-        title: Research Project Carnegie Mellon University
-        sub_title: Event Temporal Ordering using LLMs 
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # quote: >
-      
-        description: | # this will include new lines to allow paragraphs
-          Directed benchmarking Large Language Models (LLMs) on event ordering temporal tasks for four 
-          existing datasets through prompt engineering and evaluated performance models encompassing LLaMa (7B,13B,70B) , 
-          Flan-T5(3B,XL,XXL)
-    - layout: top-middle
-        title: Research Project Carnegie Mellon University
-        sub_title: Text Injection for Automatic Speech Recognition (ASR) 
-        # link: github.com/sproogen
-        # link_text: Project Website
-        # quote: >
-      
-        description: | # this will include new lines to allow paragraphs
-          Experimented bolstering ASR performance through representative alignment of text and speech 
-          upsampling text by a factor of 4 using contrastive loss a predominant technique in multimodal research
+      - layout: top-middle
+          title: Research Project Carnegie Mellon University
+          sub_title: Event Temporal Ordering using LLMs 
+          # link: github.com/sproogen
+          # link_text: Project Website
+          # quote: >
+        
+          description: | # this will include new lines to allow paragraphs
+            Directed benchmarking Large Language Models (LLMs) on event ordering temporal tasks for four 
+            existing datasets through prompt engineering and evaluated performance models encompassing LLaMa (7B,13B,70B) , 
+            Flan-T5(3B,XL,XXL)
+      - layout: top-middle
+          title: Research Project Carnegie Mellon University
+          sub_title: Text Injection for Automatic Speech Recognition (ASR) 
+          # link: github.com/sproogen
+          # link_text: Project Website
+          # quote: >
+        
+          description: | # this will include new lines to allow paragraphs
+            Experimented bolstering ASR performance through representative alignment of text and speech 
+            upsampling text by a factor of 4 using contrastive loss a predominant technique in multimodal research
           
   - title: Awards and Acievements
     layout: text
